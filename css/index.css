@@ -1,0 +1,21 @@
+/* set up the font for the website */
+/* @font-face {
+    font-family: 'Name';
+    src: url();
+} */
+
+/* reset css */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: #060507;
+}
